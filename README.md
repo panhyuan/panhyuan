@@ -2,8 +2,7 @@
 
 ---
 
-<img align="right"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikerdev&show_icons=true&layout=compact&hide=javascript,html">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikerdev&show_icons=true&layout=compact&hide=javascript,html">
 
  
 <img align="right"
