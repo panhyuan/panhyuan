@@ -1,5 +1,3 @@
-# 😄 欢迎来到 jiker 的 github 首页! 👋
-
 ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikerdev&show_icons=true&layout=compact&hide=javascript,html,CSS">
@@ -8,7 +6,7 @@
 
 ---
 
-后端，热爱的技术包括：rust、C++、Linux、Android、Kubernetes等。
+后端，热爱的技术包括：rust、Linux、Android、Kubernetes等。
 
 活跃平台：
 
