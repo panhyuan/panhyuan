@@ -6,12 +6,9 @@
 
 ---
 
-后端，热爱的技术包括：rust、Linux、Android、Kubernetes等。
+后端，日常研究的技术包括：rust、PHP、Linux、Kubernetes、Android 等。还可以在以下平台找到我：
 
-活跃平台：
-
-- 🔭 码云: <https://gitee.com/kotlindev>
-- 🤔 腾讯云社区: <https://cloud.tencent.com/developer/user/1042179>
+- 🔭 Gitee: <https://gitee.com/jikerdev>
 - 👯 B站: <https://space.bilibili.com/172353353>
 - 💬 微信公众号: **极客开发者**
 
