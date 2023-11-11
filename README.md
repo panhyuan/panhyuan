@@ -8,7 +8,7 @@
 
 互联网应用-服务端开发者，目前工作与专研的技术包括：rust、PHP、Linux、Kubernetes 等。还可以在以下平台找到我：
 
-- 🔭 Gitee: <https://gitee.com/jikerdev>
+- 🔭 Gitee: <https://gitee.com/zigfan>
 - 👯 B站: <https://space.bilibili.com/172353353>
 - 💬 微信公众号: **极客开发者**
 
