@@ -1,3 +1,5 @@
+### 👋 Hi there
+
 ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyuany&show_icons=true&layout=compact&hide=javascript,html,CSS,SCSS">
@@ -6,15 +8,16 @@
 
 ---
 
-互联网应用-服务端开发者，目前工作与专研的技术包括：rust、PHP、Linux、Kubernetes 等。还可以在以下平台找到我：
+### 🤔 What I'm doing
+互联网应用-服务端开发者，目前工作与专研的技术包括：rust、PHP、Linux、Kubernetes 。同时对 AI、Android、前端、WebAssembly 都感兴趣！
 
-## 😄 活跃平台
+### 😄 Get in touch
 - 🔭 Gitee: <https://gitee.com/phyuany>
 - 👯 B站: <https://space.bilibili.com/172353353>
 - 📫 博客：<https://webcoding.tech>
 - 💬 微信公众号: **极客开发者**
 
-## 💻 工作环境
+### 💻 Working environment
 [![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos/sonoma/)<br>
 [![Deepin 20.9](https://img.shields.io/badge/Deepin%2020.9-blue?style=flat-square&logo=deepin)](https://www.deepin.org/index/zh)<br>
 
