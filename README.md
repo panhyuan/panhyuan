@@ -15,8 +15,8 @@
 - 💬 微信公众号: **极客开发者**
 
 ## 💻 工作环境
-[![macOS Sonoma](https://img.shields.io/badge/macOS Sonoma-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos/sonoma/)<br>
-[![Deepin 20.9](https://img.shields.io/badge/Deepin 20.9-blue?style=flat-square&logo=deepin)](https://www.deepin.org/index/zh)<br>
+[![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos/sonoma/)<br>
+[![Deepin 20.9](https://img.shields.io/badge/Deepin%2020.9-blue?style=flat-square&logo=deepin)](https://www.deepin.org/index/zh)<br>
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
