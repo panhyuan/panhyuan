@@ -9,7 +9,7 @@
 ---
 
 ### 🤔 What I'm doing
-互联网应用-服务端开发者，目前工作与专研的技术包括：rust、PHP、Linux、Kubernetes 。同时对 AI、Android、前端、WebAssembly 都感兴趣！
+互联网-服务端程序开发者，目前日常工作与研究的技术主要包括：rust、PHP、Linux、Kubernetes 。同时对 AI应用、Android、前端、WebAssembly 都感兴趣！
 
 ### 😄 Get in touch
 - 🔭 Gitee: <https://gitee.com/phyuany>
