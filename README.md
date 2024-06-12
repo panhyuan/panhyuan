@@ -9,13 +9,16 @@
 ---
 
 ### 🤔 What I'm doing
-互联网-服务端程序开发者，目前日常工作与研究的技术主要包括：rust、PHP、Linux、Kubernetes 。同时对 AI应用、Android、前端、WebAssembly 都感兴趣！
+
+EN：As an internet backend developer, my daily work and research primarily focus on Rust, PHP, Linux, and Kubernetes. I am also interested in AI applications, Android, frontend development, and WebAssembly!
+
+CN：互联网-服务端程序开发者，目前日常工作与研究的技术主要包括：rust、PHP、Linux、Kubernetes 。同时对 AI应用、Android、前端、WebAssembly 都感兴趣！
 
 ### 😄 Get in touch
 - 🔭 Gitee: <https://gitee.com/phyuany>
-- 👯 B站: <https://space.bilibili.com/172353353>
+- 👯 Bilibili: <https://space.bilibili.com/172353353>
 - 📫 博客：<https://webcoding.tech>
-- 💬 微信公众号: **极客开发者**
+- 💬 公众号: **极客开发者**
 
 ### 💻 Working environment
 [![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos/sonoma/)<br>
