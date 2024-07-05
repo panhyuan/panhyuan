@@ -12,7 +12,7 @@
 
 EN：As an internet backend developer, my daily work and research primarily focus on Rust, PHP, Linux, and Kubernetes. I am also interested in AI applications, Android, frontend development, and WebAssembly!
 
-CN：互联网-服务端程序开发者，目前日常工作与研究的技术主要包括：rust、PHP、Linux、Kubernetes 。同时对 AI应用、Android、前端、WebAssembly 都感兴趣！
+CN：互联网-服务端程序开发者，目前日常工作与研究的技术主要包括：rust、PHP、Linux、Kubernetes 。对 AI应用、Android、前端、WebAssembly 也感兴趣！
 
 ### 😄 Get in touch
 - 🔭 Gitee: <https://gitee.com/phyuany>
