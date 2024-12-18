@@ -13,14 +13,16 @@
 互联网服务端程序开发者，目前日常工作与研究的技术主要包括：rust、PHP、Linux、Kubernetes 。对 AI应用、Android、前端、WebAssembly 也感兴趣！
 
 ### 😄 与我联系
+
 - 🔭 Gitee: <https://gitee.com/phyuany>
 - 👯 Bilibili: <https://space.bilibili.com/172353353>
 - 📫 博客：<https://webcoding.tech>
 - 💬 公众号: **极客开发者**
 
 ### 💻 工作环境
-[![macOS Sonoma](https://img.shields.io/badge/macOS%20Sonoma-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos/sonoma/)<br>
-[![Deepin 20.9](https://img.shields.io/badge/Deepin%2020.9-blue?style=flat-square&logo=deepin)](https://www.deepin.org/index/zh)<br>
+
+[![Deepin](https://img.shields.io/badge/Deepin%2020.9-blue?style=flat-square&logo=deepin)](https://www.deepin.org/index/zh)<br>
+[![macOS](https://img.shields.io/badge/macOS%20Sonoma-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos)<br>
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
