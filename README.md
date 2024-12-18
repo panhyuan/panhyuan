@@ -21,8 +21,8 @@
 
 ### 💻 工作环境
 
-[![Deepin](https://img.shields.io/badge/Deepin%2020.9-blue?style=flat-square&logo=deepin)](https://www.deepin.org/index/zh)<br>
-[![macOS](https://img.shields.io/badge/macOS%20Sonoma-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos)<br>
+[![Deepin](https://img.shields.io/badge/Deepin-blue?style=flat-square&logo=deepin)](https://www.deepin.org/index/zh)<br>
+[![macOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple)](https://www.apple.com.cn/macos)<br>
 
 <!--
 **kotlindev/kotlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
