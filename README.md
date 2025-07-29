@@ -2,9 +2,9 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyuany&show_icons=true&layout=compact&hide=javascript,html,CSS,SCSS">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panhyuan&show_icons=true&layout=compact&hide=javascript,html,CSS,SCSS">
 
-<img src="https://github-readme-stats.vercel.app/api?username=phyuany&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=panhyuan&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff">
 
 ---
 
