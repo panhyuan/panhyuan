@@ -15,8 +15,7 @@
 ### 😄 与我联系
 
 - 👯 Bilibili: <https://space.bilibili.com/172353353>
-- 📫 博客：<https://algs.tech>
-- 💬 公众号: **极客开发者**
+- 💬 微信公众号: **极客开发者**
 
 ### 💻 工作环境
 
