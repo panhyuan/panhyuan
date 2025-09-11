@@ -14,7 +14,6 @@
 
 ### 😄 与我联系
 
-- 🔭 Gitee: <https://gitee.com/phyuany>
 - 👯 Bilibili: <https://space.bilibili.com/172353353>
 - 📫 博客：<https://algs.tech>
 - 💬 公众号: **极客开发者**
